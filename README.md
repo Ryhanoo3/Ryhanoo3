@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://www.linkedin.com/in/ryhan-ahmed-127a82243/">I'm a Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Ryhan! <br/><a href="https://www.linkedin.com/in/ryhan-ahmed-127a82243/">I'm a Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
