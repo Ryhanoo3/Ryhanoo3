@@ -12,7 +12,7 @@
 
 - [GITHUB TEMPLATE](https://www.youtube.com/watch?v=zgqfWLHNKLk&ab_channel=JoshMadakor)
 - [Project to complete #1](https://www.youtube.com/watch?v=P9wz0Sted_I&ab_channel=JoshMadakor)
-
+- [Project to complete #2](https://www.youtube.com/watch?v=zc7LTa9q2nI&ab_channel=Sandra-Tech%26Lifestyle)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
