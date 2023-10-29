@@ -10,7 +10,8 @@
   
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [GITHUB TEMPLATE](https://www.youtube.com/watch?v=zgqfWLHNKLk&ab_channel=JoshMadakor)
+- [Project to complete #1](https://www.youtube.com/watch?v=P9wz0Sted_I&ab_channel=JoshMadakor)
 
 <h2> 🤳 Connect with me:</h2>
 
