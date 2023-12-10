@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
-  - [SOC + Honeynet](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SOC + Honeynet](https://github.com/Ryhanoo3/Cloud-SOC)
 
 <h2>👨‍💻Certifications:</h2>
 
